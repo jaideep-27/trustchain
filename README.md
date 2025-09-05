@@ -12,7 +12,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-![TrustChain Preview](https://via.placeholder.com/800x400/1D3557/FFFFFF?text=TrustChain+Dashboard+Preview)
+![TrustChain Preview](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center)
 
 </div>
 
@@ -89,7 +89,7 @@ npm run preview
 |----------|---------|-------|------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) | ![Bolt](https://img.shields.io/badge/Bolt_Hosting-FF6B6B?style=flat&logoColor=white) |
-| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) | ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | |
+| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) | ![Autoprefixer](https://img.shields.io/badge/Autoprefixer-DD3735?style=flat&logo=autoprefixer&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | |
 
 </div>
 
@@ -100,16 +100,16 @@ npm run preview
 <div align="center">
 
 ### 🏠 Landing Page
-![Landing Page](https://via.placeholder.com/600x300/14B8A6/FFFFFF?text=Beautiful+Landing+Page)
+![Landing Page](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=300&fit=crop&crop=center)
 
 ### 📊 Fraud Dashboard
-![Dashboard](https://via.placeholder.com/600x300/3B82F6/FFFFFF?text=Real-time+Fraud+Detection)
+![Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=300&fit=crop&crop=center)
 
 ### 🎓 Education Module
-![Education](https://via.placeholder.com/600x300/8B5CF6/FFFFFF?text=Interactive+Learning)
+![Education](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&h=300&fit=crop&crop=center)
 
 ### 👤 User Profile
-![Profile](https://via.placeholder.com/600x300/F59E0B/FFFFFF?text=Progress+Tracking)
+![Profile](https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600&h=300&fit=crop&crop=center)
 
 </div>
 
@@ -196,10 +196,10 @@ We welcome contributions! Please follow these steps:
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/trustchain?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/trustchain?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/trustchain?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/trustchain?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/jaideep-27/trustchain?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/jaideep-27/trustchain?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/jaideep-27/trustchain?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jaideep-27/trustchain?style=flat-square)
 
 </div>
 
@@ -237,7 +237,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ by [Your Name](https://github.com/yourusername)**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/trustchain?style=social)](https://github.com/yourusername/trustchain/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/trustchain?style=social)](https://github.com/yourusername/trustchain/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/jaideep-27/trustchain?style=social)](https://github.com/jaideep-27/trustchain/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jaideep-27/trustchain?style=social)](https://github.com/jaideep-27/trustchain/network/members)
 
 </div>
