@@ -192,19 +192,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/jaideep-27/trustchain?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/jaideep-27/trustchain?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/jaideep-27/trustchain?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/jaideep-27/trustchain?style=flat-square)
-
-</div>
-
----
-
 ## 🎯 Roadmap
 
 - **🔗 Blockchain Integration** - Full Web3 wallet connectivity
