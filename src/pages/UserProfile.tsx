@@ -1,6 +1,6 @@
 import React from 'react';
 import { User, Award, TrendingUp, Shield, BookOpen, Zap } from 'lucide-react';
-import GlassCard from '../components/GlassCard';
+import { GlassCard } from '../components/GlassCard';
 import ProgressBar from '../components/ProgressBar';
 
 const UserProfile: React.FC = () => {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AlertTriangle, TrendingUp, Eye, ExternalLink } from 'lucide-react';
-import GlassCard from '../components/GlassCard';
+import { GlassCard } from '../components/GlassCard';
 import FraudEventCard from '../components/FraudEventCard';
 import { Link } from 'react-router-dom';
 

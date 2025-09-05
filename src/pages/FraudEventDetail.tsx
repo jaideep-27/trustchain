@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, AlertTriangle, ExternalLink, Clock, Hash, Zap, BookOpen } from 'lucide-react';
-import GlassCard from '../components/GlassCard';
+import { GlassCard } from '../components/GlassCard';
 
 const FraudEventDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();

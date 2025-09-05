@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BookOpen, Star, Trophy, Zap, ChevronRight, Play } from 'lucide-react';
-import GlassCard from '../components/GlassCard';
+import { GlassCard } from '../components/GlassCard';
 import ProgressBar from '../components/ProgressBar';
 
 const EducationModule: React.FC = () => {
