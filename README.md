@@ -207,12 +207,12 @@ We welcome contributions! Please follow these steps:
 
 ## 🎯 Roadmap
 
-- [ ] 🔗 **Blockchain Integration** - Full Web3 wallet connectivity
-- [ ] 🤖 **Advanced AI Models** - Enhanced fraud detection algorithms  
-- [ ] 📱 **Mobile App** - React Native mobile application
-- [ ] 🌐 **Multi-chain Support** - Ethereum, BSC, Polygon support
-- [ ] 📈 **Advanced Analytics** - Detailed reporting and insights
-- [ ] 🔔 **Real-time Alerts** - Push notifications and email alerts
+- **🔗 Blockchain Integration** - Full Web3 wallet connectivity
+- **🤖 Advanced AI Models** - Enhanced fraud detection algorithms  
+- **📱 Mobile App** - React Native mobile application
+- **🌐 Multi-chain Support** - Ethereum, BSC, Polygon support
+- **📈 Advanced Analytics** - Detailed reporting and insights
+- **🔔Real-time Alerts** - Push notifications and email alerts
 
 ---
 
@@ -235,9 +235,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 Star this repository if you found it helpful!
 
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
-
-[![GitHub stars](https://img.shields.io/github/stars/jaideep-27/trustchain?style=social)](https://github.com/jaideep-27/trustchain/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/jaideep-27/trustchain?style=social)](https://github.com/jaideep-27/trustchain/network/members)
+**Built with ❤️ by [Jaideep](https://github.com/jaideep-27)**
 
 </div>
