@@ -23,12 +23,12 @@ const Navigation: React.FC = () => {
   ];
 
   return (
-    <nav className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 w-full max-w-3xl px-4">
-      <div className="bg-white/10 dark:bg-black/10 backdrop-blur-2xl border border-white/20 dark:border-white/10 rounded-full shadow-2xl shadow-black/10 dark:shadow-black/30">
+    <nav className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 w-full max-w-3xl px-4 animate-slide-up">
+      <div className="glass-enhanced rounded-full shadow-2xl shadow-black/10 dark:shadow-black/30 hover:shadow-xl transition-all duration-500">
         <div className="flex items-center justify-between px-10 py-2.5">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3 group">
-            <div className="font-inter font-bold text-xl bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-300 bg-clip-text text-transparent">
+            <div className="font-sans font-bold text-xl bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-300 bg-clip-text text-transparent group-hover:from-teal-500 group-hover:to-cyan-500 transition-all duration-300">
               TrustChain
             </div>
           </Link>
@@ -49,10 +49,10 @@ const Navigation: React.FC = () => {
                   }`}
                 >
                   {isActive && (
-                    <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-blue-500 rounded-full shadow-lg"></div>
+                    <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-blue-500 rounded-full shadow-lg animate-glow"></div>
                   )}
                   <div className="relative flex items-center space-x-2">
-                    <Icon className="w-3.5 h-3.5" />
+                    <Icon className={`w-3.5 h-3.5 transition-transform duration-300 ${isActive ? '' : 'group-hover:rotate-12'}`} />
                     <span className="font-medium text-sm">{item.label}</span>
                   </div>
                 </Link>
@@ -63,13 +63,13 @@ const Navigation: React.FC = () => {
           {/* Dark Mode Toggle */}
           <button
             onClick={toggleDarkMode}
-            className="relative p-2 rounded-full bg-white/20 dark:bg-black/20 hover:bg-white/30 dark:hover:bg-black/30 transition-all duration-300 group"
+            className="relative p-2 rounded-full glass-enhanced hover:shadow-lg transition-all duration-300 group hover:scale-110"
           >
-            <div className="absolute inset-0 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-full opacity-0 group-hover:opacity-20 transition-opacity"></div>
+            <div className="absolute inset-0 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-full opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
             {darkMode ? (
-              <Sun className="w-4 h-4 text-yellow-500 relative z-10" />
+              <Sun className="w-4 h-4 text-yellow-500 relative z-10 group-hover:rotate-180 transition-transform duration-500" />
             ) : (
-              <Moon className="w-4 h-4 text-gray-700 relative z-10" />
+              <Moon className="w-4 h-4 text-gray-700 relative z-10 group-hover:rotate-180 transition-transform duration-500" />
             )}
           </button>
         </div>
