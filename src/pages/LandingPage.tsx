@@ -22,7 +22,7 @@ const LandingPage: React.FC = () => {
             <img 
               src="/Gemini_Generated_Image_rejj62rejj62rejj.png" 
               alt="TrustChain AI Fraud Detection" 
-              className="w-full max-w-xs h-auto rounded-2xl shadow-2xl hover:shadow-cyan-500/20 transition-all duration-500 hover:scale-105 animate-bounce-gentle"
+              className="w-full max-w-xs h-auto rounded-2xl transition-all duration-500 hover:scale-105 animate-bounce-gentle"
             />
           </div>
 
